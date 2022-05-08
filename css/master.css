@@ -1,0 +1,11 @@
+body{
+  font-family: 'Shadows Into Light', cursive;
+  background: rgba(127, 127, 127, 0.5);
+}
+input{
+  font-family: 'Shadows Into Light';
+}
+
+#button{
+  font-family: monospace;
+}
